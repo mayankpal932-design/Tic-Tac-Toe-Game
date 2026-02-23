@@ -21,7 +21,7 @@ An interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript** with a
 ---
 
 ## 🔗 Live Demo
-
+https://mayankpal932-design.github.io/Tic-Tac-Toe-Game/
 
 ---
 
